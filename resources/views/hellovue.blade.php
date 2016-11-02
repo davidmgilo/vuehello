@@ -9,7 +9,9 @@
 </head>
 <body>
 
-Hola!
+<div id="app">
+    Hola!
+</div>
 
 <script src="js/app.js"></script>
 </body>
