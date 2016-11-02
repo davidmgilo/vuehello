@@ -10,7 +10,7 @@
 <body>
 
 <div id="app">
-    Hola!
+    @{{message}}
 </div>
 
 <script src="js/app.js"></script>
