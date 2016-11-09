@@ -10,7 +10,8 @@
 <body>
 
 <div id="app">
-    @{{message}}
+    <p>@{{message}}</p>
+    <input type="text" v-model="message">
 </div>
 
 <script src="js/app.js"></script>
